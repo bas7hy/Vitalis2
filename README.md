@@ -136,7 +136,7 @@ deterministas del sistema.
 - `docs/arquitectura.png` — arquitectura general del pipeline RAG (EP1).
 - `docs/orquestacion.png` — orquestación del agente funcional (EP2): planificador
   ReAct, las cinco herramientas (consulta, escritura, razonamiento), y los dos
-  tipos de memoria.
+tipos de memoria.
 
 ## Limitaciones conocidas
 
